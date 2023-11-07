@@ -1,0 +1,1 @@
+import{Dc as i,da as e,ma as t}from"./chunk-PLWOJE2C.js";var o=class{},n=o;(()=>{o.\u0275fac=function(r){return new(r||o)}})(),(()=>{o.\u0275mod=t({type:o})})(),(()=>{o.\u0275inj=e({imports:[i]})})();export{n as a};

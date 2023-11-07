@@ -1,0 +1,1 @@
+import{ca as o}from"./chunk-PLWOJE2C.js";var t=class{constructor(){this._stepValidation=0}get step(){return this._stepValidation}changeStep(e){this._stepValidation=e}},n=t;(()=>{t.\u0275fac=function(i){return new(i||t)}})(),(()=>{t.\u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})})();export{n as a};
